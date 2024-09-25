@@ -2,7 +2,6 @@
 
 ## User Story
 
-```md
 AS A developer
 <br/>
 I WANT to create notes or code snippets with or without an internet connection
@@ -10,11 +9,8 @@ I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 <br/>
 
-```
-
 ## Acceptance Criteria
 
-```md
 GIVEN a text editor web application
 <br/>
 WHEN I open my application in my editor
@@ -65,7 +61,6 @@ WHEN I deploy to Render
 <br/>
 THEN I should have proper build scripts for a webpack application
 
-```
 ## Credit 
 Starter code provided from https://github.com/coding-boot-camp/cautious-meme
 <br/>
