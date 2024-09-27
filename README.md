@@ -1,5 +1,13 @@
 # ServiceWorkerDemo
 
+## Table of contents
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [Screenshots](#screenshots)
+
 ## User Story
 
 AS A developer
@@ -61,7 +69,28 @@ WHEN I deploy to Render
 <br/>
 THEN I should have proper build scripts for a webpack application
 
+## Usage
+
+This app is simply a demostration of service workers and progressive web applications.
+
+## Contributing 
+
+This app can be forked and then submitted for review before merging to this fork of the project.
+
+## Questions
+
+Contact: ```ryanshaffer1324@gmail.com```
+<br/>
+Github repo: https://github.com/shyanrafer/ServiceWorkerDemo
+<br/>
+Girhub profile: https://github.com/shyanrafer
+
 ## Credit 
+
 Starter code provided from https://github.com/coding-boot-camp/cautious-meme
 <br/>
 Code was also pulled from week 19 mini porject. Each snippet is outlined via a comment on the given page/part.
+
+## Screenshots 
+
+![alt text](./assets/image.png)
